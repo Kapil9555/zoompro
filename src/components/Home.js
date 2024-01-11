@@ -176,7 +176,7 @@ const Home = () => {
 
                                     <Grid container sx={{ height: '35px', justifyContent: 'right' }}>
 
-                                        <Grid item xs={6.65} sx={{ display: "flex", alignItems: "center", justifyContent: "center", borderTop: "3px solid white", bgcolor: 'black', clipPath: 'polygon(2% 0, 100% 0, 100% 100%, 0 100%, 0 80%)' }}>
+                                        <Grid item xs={6.5} sx={{ display: "flex", alignItems: "center", justifyContent: "center", borderTop: "3px solid white", bgcolor: 'black', clipPath: 'polygon(2% 0, 100% 0, 100% 100%, 0 100%, 0 80%)' }}>
                                             <Typography sx={{ color: "white", fontSize: '12px' }}>PROP: 30' WIDE ROAD</Typography>
                                         </Grid>
 
@@ -226,7 +226,7 @@ const Home = () => {
 
                                     <Grid container sx={{ height: '35px', justifyContent: 'right' }}>
 
-                                        <Grid item xs={6.65} sx={{ display: "flex", alignItems: "center", justifyContent: "center", bgcolor: 'black' }}>
+                                        <Grid item xs={6.5} sx={{ display: "flex", alignItems: "center", justifyContent: "center", bgcolor: 'black' }}>
                                             <Typography sx={{ color: "white", fontSize: '12px' }}>PROP: 30' WIDE ROAD</Typography>
                                         </Grid>
 
@@ -323,7 +323,7 @@ const Home = () => {
                                 </Grid>
 
                             </Grid>
-                            <Grid item xs={.4} sx={{ bgcolor: "black", borderTop: "3px solid white", height: '937px' , clipPath:'polygon(100% 0, 100% 0, 100% 99%, 0 100%, 0 3.2%)'}}></Grid>
+                            <Grid item xs={.4} sx={{ bgcolor: "black", borderTop: "3px solid white", height: '937px' , clipPath:'polygon(100% 0, 100% 0, 100% 100%, 0 100%, 0 4%)'}}></Grid>
                             {/* kapil comp */}
                             <Grid item xs={5.8}>
 
