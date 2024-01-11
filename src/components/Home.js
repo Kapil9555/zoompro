@@ -244,7 +244,7 @@ const Home = () => {
 
 
                                         </Grid>
-                                        <Grid item xs={6} sx={{ border: '1px solid red' }}>
+                                        <Grid item xs={6} sx={{  }}>
                                             <Grid container sx={{ height: '45px', justifyContent: 'right' }}>
                                                 {
                                                     ['51 52', 53, 54, 55, 56, 57, 58, 59, 60].map((ele, index) => {
